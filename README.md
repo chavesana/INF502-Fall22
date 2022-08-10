@@ -41,18 +41,18 @@ Everything on this schedule *is subject to change* based on specific student and
 | 8  | Oct 18 | **MID TERM** (tentative)                              |                |                          |          |
 |    | Oct 20 | Mid term discussion                                   |                |                          |          |
 | 9  | Oct 25 | Data analysis libraries: Pandas                       |                |                          |          |
-|    | Oct 27 |                                                       |                | HW6                      |          |
+|    | Oct 27 |                                                       |                | HW5                      |          |
 | 10 | Nov  1 | REST API data collection                              |                | PA2                      |          |
 |    | Nov  3 |                                                       |                |                          |          |
-| 11 | Nov  8 | Web Scraping                                          |                |                          | HW6      |
+| 11 | Nov  8 | Web Scraping                                          |                |                          | HW5      |
 |    | Nov 10 | Scraping + Pandas Practice                            |                |                          |          |
-| 12 | Nov 15 | Algorithm design and sorting/searching strategies     |                | HW7                      |          |
+| 12 | Nov 15 | Algorithm design and sorting/searching strategies     |                | HW6                      |          |
 |    | Nov 17 |                                                       |                |                          |          |
 | 13 | Nov 22 | Agile development: kanban; test-driven development    |                |                          |          |
-|    | Nov 24 |                                                       |                |                          | HW7      |
+|    | Nov 24 |                                                       |                |                          | HW6      |
 | 14 | Nov 29 |                                                       |                |                          |          |
 |    | Dec  1 | THANKSGIVING                                          |                |                          |          |
 | 15 | Dec  6 | PA2: final call!                                      |                |                          |          |
-|    | Dec  8 | Wrap up                                               |                |                          | A2       |
+|    | Dec  8 | Wrap up                                               |                |                          | PA2       |
 | 16 | Dec 13 | FINALS WEEK                                           |                |                          |          |
 |    | Dec 15 | FINALS WEEK                                           |                |                          |          |

@@ -1,6 +1,7 @@
 # INF502
 Repo for information about INF502 Graduate Course: Software Development Methodologies @ NAU
-Credits: course materials adapted from Dr. Igor Steinmacher (Igor.Steinmacher@nau.edu)
+
+_Credits: course materials adapted from Dr. Igor Steinmacher (Igor.Steinmacher@nau.edu)_
 
 ## Office hours
 

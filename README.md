@@ -11,7 +11,7 @@ To be defined
 
 * **Last day to drop without a W:** 
 * **Midterm exam (tentative):** October 18
-* **Final exam:** December 15 - 12:30pm-2:30pm - see the [University Schedule] (https://in.nau.edu/registrar/important-dates/)
+* **Final exam:** December 15 - 12:30pm-2:30pm - see the [University Schedule](https://in.nau.edu/registrar/important-dates/)
 
 ## Syllabus
 

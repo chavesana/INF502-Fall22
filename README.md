@@ -15,7 +15,7 @@ To be defined
 
 ## Syllabus
 
-To apperar
+Download the Fall 2022 Syllabus here (to appear).
 
 ## Course Schedule
 Everything on this schedule *is subject to change* based on specific student and/or course needs that emerge. Please **stay tuned for changes and assignments that will appear here** as the course progresses.

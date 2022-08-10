@@ -38,7 +38,7 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Oct  6 | Intro to object-orientation                           |                |                          |          |
 | 7  | Oct 11 |                                                       |                |                          | HW4      |
 |    | Oct 13 | Python OO practice                                    |                |                          | PA1      |
-| 8  | Oct 18 | **MID TERM** (tentative)                              |                |                          |          |
+| 8  | Oct 18 | **MIDTERM** (tentative)                              |                |                          |          |
 |    | Oct 20 | Mid term discussion                                   |                |                          |          |
 | 9  | Oct 25 | Data analysis libraries: Pandas                       |                |                          |          |
 |    | Oct 27 |                                                       |                | HW5                      |          |
@@ -55,4 +55,4 @@ Everything on this schedule *is subject to change* based on specific student and
 | 15 | Dec  6 | PA2: final call!                                      |                |                          |          |
 |    | Dec  8 | Wrap up                                               |                |                          | PA2       |
 | 16 | Dec 13 | FINALS WEEK                                           |                |                          |          |
-|    | Dec 15 | FINALS WEEK                                           |                |                          |          |
+|    | Dec 15 | FINAL EXAM (12:30PM-2:30pm)                           |                |                          |          |

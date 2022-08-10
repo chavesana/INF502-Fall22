@@ -39,7 +39,7 @@ Everything on this schedule *is subject to change* based on specific student and
 | 7  | Oct 11 |                                                       |                |                          | HW4      |
 |    | Oct 13 | Python OO practice                                    |                |                          | PA1      |
 | 8  | Oct 18 | **MID TERM** (tentative)                              |                |                          |          |
-|    | Oct 20 | Mid term review                                       |                |                          |          |
+|    | Oct 20 | Mid term discussion                                   |                |                          |          |
 | 9  | Oct 25 | Data analysis libraries: Pandas                       |                |                          |          |
 |    | Oct 27 |                                                       |                | HW6                      |          |
 | 10 | Nov  1 | REST API data collection                              |                | PA2                      |          |

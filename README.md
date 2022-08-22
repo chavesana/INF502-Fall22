@@ -5,7 +5,7 @@ _Credits: course materials adapted from Dr. Igor Steinmacher (Igor.Steinmacher@n
 
 ## Office hours
 
-To be defined
+TuTh 9:00AM-11:00AM; We 1:30PM-3:30PM; Room 090-216
 
 ## Important dates (Fall 2022)
 

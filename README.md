@@ -15,7 +15,7 @@ TuTh 9:00AM-11:00AM; We 1:30PM-3:30PM; Room 090-216
 
 ## Syllabus
 
-Download the Fall 2022 Syllabus here (to appear).
+Download the Fall 2022 Syllabus [here](documents/INF502_Syllabus_Fall2022.pdf).
 
 ## Course Schedule
 Everything on this schedule *is subject to change* based on specific student and/or course needs that emerge. Please **stay tuned for changes and assignments that will appear here** as the course progresses.

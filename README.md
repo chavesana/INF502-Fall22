@@ -49,10 +49,10 @@ Everything on this schedule *is subject to change* based on specific student and
 | 12 | Nov 15 | Algorithm design and sorting/searching strategies     |                | HW6                      |          |
 |    | Nov 17 |                                                       |                |                          |          |
 | 13 | Nov 22 | Agile development: kanban; test-driven development    |                |                          |          |
-|    | Nov 24 |                                                       |                |                          | HW6      |
-| 14 | Nov 29 |                                                       |                |                          |          |
-|    | Dec  1 | THANKSGIVING                                          |                |                          |          |
-| 15 | Dec  6 | PA2: final call!                                      |                |                          |          |
-|    | Dec  8 | Wrap up                                               |                |                          | PA2       |
+|    | Nov 24 | THANKSGIVING                                          |                |                          | HW6      |
+| 14 | Nov 29 | Project development                                   |                |                          |          |
+|    | Dec  1 |                                                       |                |                          |          |
+| 15 | Dec  6 |                                                       |                |                          |          |
+|    | Dec  8 | Wrap up                                               |                |                          | PA2      |
 | 16 | Dec 13 | FINALS WEEK                                           |                |                          |          |
 |    | Dec 15 | FINAL EXAM (12:30PM-2:30pm)                           |                |                          |          |

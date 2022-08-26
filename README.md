@@ -22,37 +22,37 @@ Everything on this schedule *is subject to change* based on specific student and
 
 <!--Work is to be submitted via BbLearn whenever not specified differently. When via BBLearn, the deliverable must be in Word or PDF format.-->
 
-|Week|Date.   | Content (tentative)                                   | Comments.      | Assignments out          | Deadline |
-|----|--------|-------------------------------------------------------|----------------|--------------------------|----------|
-| 1  | Aug 30 | Intro to Programming languages                        |                |                          |          |
-|    | Sep  1 | Git/GitHub                                            |                | HW1                      |          |
-| 2  | Sep  6 |                                                       |                |                          |          |
-|    | Sep  8 | Python essentials                                     | Syntax, types  |                          |          |
-| 3  | Sep 13 |                                                       |                | PA1, HW2                 | HW1      |
-|    | Sep 15 |                                                       | Igor traveling |                          |          |
-| 4  | Sep 20 | Python part 2 (files/exceptions)                      |                |                          |          |
-|    | Sep 22 |                                                       |                | HW3                      | HW2      |
-| 5  | Sep 27 | Python practice                                       |                |                          |          |
-|    | Sep 29 |                                                       |                |                          | HW3      |
-| 6  | Oct  4 | Jupyter Notebooks / Google Colab                      |                | HW4                      |          |
-|    | Oct  6 | Intro to object-orientation                           |                |                          |          |
-| 7  | Oct 11 |                                                       |                |                          | HW4      |
-|    | Oct 13 | Python OO practice                                    |                |                          | PA1      |
-| 8  | Oct 18 | **MIDTERM** (tentative)                              |                |                          |          |
-|    | Oct 20 | Mid term discussion                                   |                |                          |          |
-| 9  | Oct 25 | Data analysis libraries: Pandas                       |                |                          |          |
-|    | Oct 27 |                                                       |                | HW5                      |          |
-| 10 | Nov  1 | REST API data collection                              |                | PA2                      |          |
-|    | Nov  3 |                                                       |                |                          |          |
-| 11 | Nov  8 | Web Scraping                                          |                |                          | HW5      |
-|    | Nov 10 | Scraping + Pandas Practice                            |                |                          |          |
-| 12 | Nov 15 | Algorithm design and sorting/searching strategies     |                | HW6                      |          |
-|    | Nov 17 |                                                       |                |                          |          |
-| 13 | Nov 22 | Agile development: kanban; test-driven development    |                |                          |          |
-|    | Nov 24 | THANKSGIVING                                          |                |                          | HW6      |
-| 14 | Nov 29 | Project development                                   |                |                          |          |
-|    | Dec  1 |                                                       |                |                          |          |
-| 15 | Dec  6 |                                                       |                |                          |          |
-|    | Dec  8 | Wrap up                                               |                |                          | PA2      |
-| 16 | Dec 13 | FINALS WEEK                                           |                |                          |          |
-|    | Dec 15 | FINAL EXAM (12:30PM-2:30pm)                           |                |                          |          |
+|Week|Date.      | Content (tentative)                                   | Comments.      | Assignments out          | Deadline |
+|----|-----------|-------------------------------------------------------|----------------|--------------------------|----------|
+| 1  | Aug 30.   | Intro to Programming languages                        |                |                          |          |
+|    | Sep  1    | Git/GitHub                                            |                | HW1                      |          |
+| 2  | Sep  6    |                                                       |                |                          |          |
+|    | Sep  8    | Python essentials                                     | Syntax, types  |                          |          |
+| 3  | Sep 13    |                                                       |                | PA1, HW2                 | HW1      |
+|    | Sep 15    |                                                       | Igor traveling |                          |          |
+| 4  | Sep 20    | Python part 2 (files/exceptions)                      |                |                          |          |
+|    | Sep 22    |                                                       |                | HW3                      | HW2      |
+| 5  | Sep 27    | Python practice                                       |                |                          |          |
+|    | Sep 29    |                                                       |                |                          | HW3      |
+| 6  | Oct  4    | Jupyter Notebooks / Google Colab                      |                | HW4                      |          |
+|    | Oct  6    | Intro to object-orientation                           |                |                          |          |
+| 7  | Oct 11    |                                                       |                |                          | HW4      |
+|    | Oct 13    | Python OO practice                                    |                |                          | PA1      |
+| 8  | Oct 18    | **MIDTERM** (tentative)                               |                |                          |          |
+|    | Oct 20    | Mid term discussion                                   |                |                          |          |
+| 9  | Oct 25    | Data analysis libraries: Pandas                       |                |                          |          |
+|    | Oct 27    |                                                       |                | HW5                      |          |
+| 10 | Nov  1    | REST API data collection                              |                | PA2                      |          |
+|    | Nov  3    |                                                       |                |                          |          |
+| 11 | Nov  8    | Web Scraping                                          |                |                          | HW5      |
+|    | Nov 10    | Scraping + Pandas Practice                            |                |                          |          |
+| 12 | Nov 15    | Algorithm design and sorting/searching strategies     |                | HW6                      |          |
+|    | Nov 17    |                                                       |                |                          |          |
+| 13 | Nov 22    | Agile development: kanban; test-driven development    |                |                          |          |
+|    | Nov 24    | THANKSGIVING                                          |                |                          | HW6      |
+| 14 | Nov 29    | Project development                                   |                |                          |          |
+|    | Dec  1    |                                                       |                |                          |          |
+| 15 | Dec  6    |                                                       |                |                          |          |
+|    | Dec  8    | Wrap up                                               |                |                          | PA2      |
+| 16 | Dec 13    | FINALS WEEK                                           |                |                          |          |
+|    | Dec 15    | FINAL EXAM (12:30PM-2:30pm)                           |                |                          |          |

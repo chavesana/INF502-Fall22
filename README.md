@@ -9,7 +9,7 @@ TuTh 9:00AM-11:00AM; We 1:30PM-3:30PM; Room 090-216
 
 ## Important dates (Fall 2022)
 
-* **Last day to drop without a W:** 
+* **Last day to drop without a W:**  September 8
 * **Midterm exam (tentative):** October 18
 * **Final exam:** December 15 - 12:30pm-2:30pm - see the [University Schedule](https://in.nau.edu/registrar/important-dates/)
 

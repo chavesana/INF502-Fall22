@@ -24,7 +24,7 @@ Everything on this schedule *is subject to change* based on specific student and
 
 |Week|Date.      | Content (tentative)                                   | Comments.      | Assignments out          | Deadline |
 |----|-----------|-------------------------------------------------------|----------------|--------------------------|----------|
-| 1  | Aug 30    | Intro to Programming languages                        |                |                          |          |
+| 1  | Aug 30    | [Intro to Programming languages](slides/week1.pdf)    |                |                          |          |
 |    | Sep  1    | Git/GitHub                                            |                | HW1                      |          |
 | 2  | Sep  6    |                                                       |                |                          |          |
 |    | Sep  8    | Python essentials                                     | Syntax, types  |                          |          |

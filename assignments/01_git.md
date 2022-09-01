@@ -133,7 +133,7 @@ To complete this submission, follow these steps:
 
 4. Commit your file and push to your own GitHub repository (INF502).
 
-5. Create a pull request to the course repository. Your pull request needs to appear [here](https://github.com/chavesana/INF502-Fall22/pulls)).
+5. Create a pull request to the course repository. Your pull request needs to appear [here](https://github.com/chavesana/INF502-Fall22/pulls).
 
 6. Go back to Part 1 and answer the question 13 based on your experience in solving Part 2.
 

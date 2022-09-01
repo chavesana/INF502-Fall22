@@ -120,7 +120,7 @@ The goal of this assignment is to put you in touch with the fork-pull request pr
 
 To complete this submission, follow these steps:
 
-1. Fork the course repository (available [here](https://github.com/chavesana/INF502-Fall22).
+1. Fork the course repository (available [here](https://github.com/chavesana/INF502-Fall22)).
 
 2. Into the students folder, create a markdown file called LASTNAME_FIRSTNAME.md (please change LASTNAME_FIRSTNAME for your actual last and first names). 
 

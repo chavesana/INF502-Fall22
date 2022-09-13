@@ -1,24 +1,25 @@
 ### Part 2: Using GitHub
 
-The goal of this assignment is to put you in touch with the fork-pull request process, with an extra of dealing a little bit with Markdown. To learn more about Markdown [click here](https://guides.github.com/features/mastering-markdown/).
-
-To complete this submission, follow these steps:
-
-1. Fork the course repository (available [here](https://github.com/chavesana/INF502-Fall22)).
-
-2. Into the students folder, create a markdown file called LASTNAME_FIRSTNAME.md (please change LASTNAME_FIRSTNAME for your actual last and first names). 
-
 3. Use markdown to write a report of the last paper you've read. You can structure your markdown the way you want, but the following information must be there:
-- Title
-- Venue (journal name/conference)
-- Number of pages
-- Three outcomes of the paper
-- Link to the paper online
+- Title: Blockchain
+- Venue (journal name/conference): Computing, Information and Cognitive Systems, ICICS 179 – 2366 Main Mall
+                                    Vancouver, BC Canada V6T 1Z4
+- Number of pages: 38
+- Three outcomes of the paper:
+1.Future networks will likely adopt a data-driven paradigm in order to better support the explosive expansion
+ of mobile services and the growing heterogeneity of mobile devices, many of which produce and consume significant amounts of data.
 
-4. Commit your file and push to your own GitHub repository (INF502).
+2.Blockchain is seen as a possible option for future data-driven networks (DDNs), enabling secure data storage, sharing, and analytics, 
+user privacy protection, reliable, trustworthy network control, and decentralized routing and resource managements.
 
-5. Create a pull request to the course repository. Your pull request needs to appear [here](https://github.com/chavesana/INF502-Fall22/pulls).
+3.Significant difficulties with security, privacy, services providing, and network management are further obstacle to these paper.
 
-6. Go back to Part 1 and answer the question 13 based on your experience in solving Part 2.
+4.In this article, we provide an overview of previous studies on blockchain technology's use in computer networks and suggest problems
+ and potential fixes for blockchain technology's use in upcoming DDNs.
 
-Your Part 2 submission is complete when your pull request is listed in the link above.
+5.Blockchain, the underlying technology of cryptocurrencies, is revolutionizing data processing and storage in computer network systems.
+ Blockchain is a method for creating distributed ledgers that give an immutable log of transactions recorded in a distributed network.
+ 
+- Link to the paper online: https://dl.acm.org/doi/pdf/10.1145/3446373
+
+

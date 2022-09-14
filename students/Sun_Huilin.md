@@ -7,7 +7,7 @@
 **Remote Sensing of Environment**
 
 ## Number of pages
-**18**
+_18_
 
 ## Three outcomes of the paper
 ```

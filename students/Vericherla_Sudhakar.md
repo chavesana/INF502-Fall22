@@ -1,10 +1,6 @@
-# INF 502 Git/GitHub Assignment
+# INF 502 Assignment 1 - Part 2
 
-**Sudhakar Vericherla**
-
-**Sept 14, 2022**
-
-## Part 2: Using GitHub
+**Sudhakar Vericherla / SV686@NAU.EDU**
 
 ## Tittle
 An Introduction to Data Ethics

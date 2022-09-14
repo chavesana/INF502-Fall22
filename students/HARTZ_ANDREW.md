@@ -1,13 +1,11 @@
 Title: MPI+OpenMP Tasking Scalability for the Simulation of the
 Human Brain  
-Authors: Valero-Lara et al.
-year: 2018
-pages: 8
-publication: ACM, available on Science Dirrect 
+Venue: ACM, available on Science Dirrect 
+Number of pages: 8
 
-Outcomes
+Three outcomes of the paper:
 1. Proposed and evaluated implementation of simulating the human brain.
 2. Though MPI_AllGather and OpenMP introduced non-negligible overhead, it was shown that the approach reduced programming cost.
 3. Future plans are to extend this work with muli-morphology simulations to simulate a higher number of neurons.
 
-url: https://www.sciencedirect.com/science/article/abs/pii/S016781911830317X
+Link to the paper online: https://www.sciencedirect.com/science/article/abs/pii/S016781911830317X

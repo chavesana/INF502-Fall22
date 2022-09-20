@@ -31,9 +31,9 @@ Everything on this schedule *is subject to change* based on specific student and
 | 2  | Sep  6    | [Git/GitHub (part 2)](documents/slides_week2_part1.pdf)|               |                            |          |
 |    | Sep  8    | [Python essentials](documents/slides_week2_part2.pdf) |Syntax, types   |                            |          |
 | 3  | Sep 13    |                                                       | conditionals   |                            |          |
-|    | Sep 15    |[Python essentials: Functions and structures](documents/slides_week3.pdf)|| [PA1](assignments/PA1.md), HW2                 | HW1      |
-| 4  | Sep 20    | Python part 2 (files/exceptions)                      |                |                            |          |
-|    | Sep 22    |                                                       |                | HW3                        | HW2      |
+|    | Sep 15    |[Python essentials: Functions and structures](documents/slides_week3.pdf)|| [PA1](assignments/PA1.md), HW2| HW1 |
+| 4  | Sep 20    |                                                       |                |                            |          |
+|    | Sep 22    | Python part 2 (files/exceptions)                      |                | HW3                        | HW2      |
 | 5  | Sep 27    | Python practice                                       |                |                            |          |
 |    | Sep 29    |                                                       |                |                            | HW3      |
 | 6  | Oct  4    | Jupyter Notebooks / Google Colab                      |                | HW4                        |          |

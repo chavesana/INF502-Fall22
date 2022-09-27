@@ -34,8 +34,8 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Sep 15    |[Python essentials: Functions and structures](documents/slides_week3.pdf)|| [PA1](assignments/PA1.md)| HW2      |
 | 4  | Sep 20    | (cont.)[Functions and structures](documents/slides_week3.pdf)|         |[HW2](assignments/hw2.md)   |          |
 |    | Sep 22    | Python part 2: [file handling](documents/slides_week4.pdf)|            |                            |          |
-| 5  | Sep 27    | Python part 2: [exceptions and modules](documents/slides_week5.pdf)|   |                            | HW2      |
-|    | Sep 29    |                                                       |                | HW3                        |          |
+| 5  | Sep 27    | Python part 2: [exceptions and modules](documents/slides_week5.pdf)|   |                            |          |
+|    | Sep 29    |                                                       |                | HW3                        | HW2      |
 | 6  | Oct  4    | Jupyter Notebooks / Google Colab                      |                |                            |          |
 |    | Oct  6    | Intro to object-orientation                           |                | HW4                        | HW3      |
 | 7  | Oct 11    |                                                       |                |                            |          |

@@ -34,14 +34,14 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Sep 15    |[Python essentials: Functions and structures](documents/slides_week3.pdf)|| [PA1](assignments/PA1.md)| HW2      |
 | 4  | Sep 20    | (cont.)[Functions and structures](documents/slides_week3.pdf)|         |[HW2](assignments/hw2.md)   |          |
 |    | Sep 22    | Python part 2: [file handling](documents/slides_week4.pdf)|            |                            |          |
-| 5  | Sep 27    | Python part 2: [exceptions and modules](documents/slides_week5.pdf)|   |                            |          |
-|    | Sep 29    |                                                       |                | HW3                        | HW2      |
-| 6  | Oct  4    | Jupyter Notebooks / Google Colab                      |                |                            |          |
-|    | Oct  6    | Intro to object-orientation                           |                | HW4                        | HW3      |
-| 7  | Oct 11    |                                                       |                |                            |          |
-|    | Oct 13    | Python OO practice                                    |                |                            | HW4, PA1 |
+| 5  | Sep 27    | Practice: HW and PA assigment                         |                |                            |          |
+|    | Sep 29    |Python part 2: [exceptions and modules](documents/slides_week5.pdf)|    |                            | HW2      |
+| 6  | Oct  4    | Jupyter Notebooks / Google Colab                      |                | HW3                        |          |
+|    | Oct  6    | Intro to object-orientation                           |                |                            |          |
+| 7  | Oct 11    |                                                       |                | HW4                        | HW3      |
+|    | Oct 13    | Python OO practice                                    |                |                            | PA1      |
 | 8  | Oct 18    | **MIDTERM** (tentative)                               |                |                            |          |
-|    | Oct 20    | Mid term discussion                                   |                |                            |          |
+|    | Oct 20    | Mid term discussion                                   |                |                            | HW4      |
 | 9  | Oct 25    | Data analysis libraries: Pandas                       |                |                            |          |
 |    | Oct 27    |                                                       |                | HW5                        |          |
 | 10 | Nov  1    | REST API data collection                              |                | PA2                        |          |

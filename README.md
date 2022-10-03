@@ -36,7 +36,7 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Sep 22    | Python part 2: [file handling](documents/slides_week4.pdf)|            |                            |          |
 | 5  | Sep 27    | Practice: HW and PA assigment                         |                |                            |          |
 |    | Sep 29    |Python part 2: [exceptions and modules](documents/slides_week5.pdf)|    |                            | HW2      |
-| 6  | Oct  4    | Jupyter Notebooks / Google Colab                      |                | HW3                        |          |
+| 6  | Oct  4    | Jupyter Notebooks / [Google Colab](notebooks/colab-github-demo.ipynb)| |[HW3](assignments/hw3.md)   |          |
 |    | Oct  6    | Intro to object-orientation                           |                |                            |          |
 | 7  | Oct 11    |                                                       |                | HW4                        | HW3      |
 |    | Oct 13    | Python OO practice                                    |                |                            | PA1      |

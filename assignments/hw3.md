@@ -3,8 +3,8 @@
 * **INDIVIDUAL ASSIGNMENT**
 * **Deadline**: Oct-11th 11:59PM
 * **Value**: 100 points counted towards Homework category
-* 
-* **How to submit**: In your GitHub repository called *INF502* (same used for the HW assignments 1 and 2), create a file called *"Assignment3.md"* with the following content:
+
+**How to submit**: In your GitHub repository called *INF502* (same used for the HW assignments 1 and 2), create a file called *"Assignment3.md"* with the following content:
   1. The problem's specification (as provided below in this file);
   2. A brief textual explanation of you approach to solve the problem. Use the tag ```code``` if you need to show snippets of code along with the explanation (not required though).
   3. A link to the file with the solution. Add the `.py` file to the `code` folder (create one if you don't have it already!).

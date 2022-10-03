@@ -1,4 +1,4 @@
-# Assignment 2: Python Basics
+# Assignment 3: Python Basics
 
 * **INDIVIDUAL ASSIGNMENT**
 * **Deadline**: Oct-11th 11:59PM

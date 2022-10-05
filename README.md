@@ -36,23 +36,23 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Sep 22    | Python part 2: [file handling](documents/slides_week4.pdf)|            |                            |          |
 | 5  | Sep 27    | Practice: HW and PA assigment                         |                |                            |          |
 |    | Sep 29    |Python part 2: [exceptions and modules](documents/slides_week5.pdf)|    |                            | HW2      |
-| 6  | Oct  4    | Jupyter Notebooks / [Google Colab](notebooks/colab-github-demo.ipynb)| |[HW3](assignments/hw3.md)   |          |
-|    | Oct  6    | Intro to object-orientation                           |                |                            |          |
-| 7  | Oct 11    |                                                       |                | HW4                        | HW3      |
-|    | Oct 13    | Python OO practice                                    |                |                            | PA1      |
+| 6  | Oct  4    |[Jupyter Notebooks](notebooks/myFirstNotebook.ipynb)/[Google Colab](notebooks/colab-github-demo.ipynb)||[HW3](assignments/hw3.md)||
+|    | Oct  6    |[Intro to object-orientation](notebooks/object_oriented.ipynb)|[Markdown cheatsheet](markdown-cheat-sheet.md)|| |
+| 7  | Oct 11    |[Python OO practice]                                   |                |                            | HW3      |
+|    | Oct 13    |[Python OO practice]                                   |                |                            | PA1      |
 | 8  | Oct 18    | **MIDTERM** (tentative)                               |                |                            |          |
-|    | Oct 20    | Mid term discussion                                   |                |                            | HW4      |
-| 9  | Oct 25    | Data analysis libraries: Pandas                       |                |                            |          |
-|    | Oct 27    |                                                       |                | HW5                        |          |
-| 10 | Nov  1    | REST API data collection                              |                | PA2                        |          |
-|    | Nov  3    |                                                       |                |                            |          |
-| 11 | Nov  8    | Web Scraping                                          |                |                            | HW5      |
+|    | Oct 20    | Mid term discussion                                   |                |                            |          |
+| 9  | Oct 25    | Data analysis libraries: Pandas                       |                | HW4                        |          |
+|    | Oct 27    |                                                       |                |                            |          |
+| 10 | Nov  1    | REST API data collection                              |                | PA2                        | HW4      |
+|    | Nov  3    |                                                       |                | HW5                        |          |
+| 11 | Nov  8    | Web Scraping                                          |                |                            |          |
 |    | Nov 10    | Scraping + Pandas Practice                            |                |                            |          |
-| 12 | Nov 15    | Algorithm design and sorting/searching strategies     |                | HW6                        |          |
+| 12 | Nov 15    | Algorithm design and sorting/searching strategies     |                | HW6                        | HW5      |
 |    | Nov 17    |                                                       |                |                            |          |
 | 13 | Nov 22    | Agile development: kanban; test-driven development    |                |                            |          |
-|    | Nov 24    | THANKSGIVING                                          |                |                            | HW6      |
-| 14 | Nov 29    | Project development                                   |                |                            |          |
+|    | Nov 24    | THANKSGIVING                                          |                |                            |          |
+| 14 | Nov 29    | Project development                                   |                |                            | HW6      |
 |    | Dec  1    |                                                       |                |                            |          |
 | 15 | Dec  6    |                                                       |                |                            |          |
 |    | Dec  8    | Wrap up                                               |                |                            | PA2      |

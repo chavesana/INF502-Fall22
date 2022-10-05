@@ -29,7 +29,7 @@ After the user adds the values for the wallets, your application should provide 
 
 Please try to think about different functions to complete your work.
 
-## Periodic Table 
+## Problem 2: Periodic Table 
 
 The Periodic Table of the Elements was developed to organize information about the elements that make up the Universe.
 Write a terminal application that lets you enter information about each element in the periodic table.

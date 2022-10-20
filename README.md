@@ -40,7 +40,7 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Oct  6    |[Intro to object-orientation](notebooks/object_oriented.ipynb)|[Markdown cheatsheet](markdown-cheat-sheet.md)|| |
 | 7  | Oct 11    |[Python OO practice](assignments/OO_practice.ipynb)    |                |                            | HW3      |
 |    | Oct 13    | Python OO practice (cont.)                            |                |                            | PA1      |
-| 8  | Oct 18    | **MIDTERM**                                           |                |                            |          |
+| 8  | Oct 18    | [**MIDTERM**](documents/Midterm.pdf)                  |                |                            |          |
 |    | Oct 20    | Mid term discussion                                   |                |                            |          |
 | 9  | Oct 25    | Data analysis libraries: Pandas                       |                | HW4                        |          |
 |    | Oct 27    |                                                       |                |                            |          |

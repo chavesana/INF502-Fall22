@@ -42,19 +42,19 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Oct 13    | Python OO practice (cont.)                            |                |                            | PA1      |
 | 8  | Oct 18    | [**MIDTERM**](documents/Midterm.pdf)                  |                |                            |          |
 |    | Oct 20    | Mid term discussion                                   |                |                            |          |
-| 9  | Oct 25    | [Data analysis libraries: Pandas](notebooks/DataAnalysis.ipynb)|       | [HW4](assignments/hw4.md)  |          |
+| 9  | Oct 25    | [Data analysis libraries: Pandas](notebooks/DataAnalysis.ipynb)|       |[HW4](assignments/hw4.ipynb)|          |
 |    | Oct 27    |                                                       |                |                            |          |
-| 10 | Nov  1    | REST API data collection                              |                | PA2                        | HW4      |
-|    | Nov  3    |                                                       |                | HW5                        |          |
+| 10 | Nov  1    | REST API data collection                              |                | PA2                        |          |
+|    | Nov  3    |                                                       |                |                            | HW4      |
 | 11 | Nov  8    | Web Scraping                                          |                |                            |          |
 |    | Nov 10    | Scraping + Pandas Practice                            |                |                            |          |
-| 12 | Nov 15    | Algorithm design and sorting/searching strategies     |                | HW6                        | HW5      |
+| 12 | Nov 15    | Algorithm design and sorting/searching strategies     |                | HW5                        |          |
 |    | Nov 17    |                                                       |                |                            |          |
 | 13 | Nov 22    | Agile development: kanban; test-driven development    |                |                            |          |
-|    | Nov 24    | THANKSGIVING                                          |                |                            |          |
-| 14 | Nov 29    | Project development                                   |                |                            | HW6      |
+|    | Nov 24    | THANKSGIVING                                          |                | HW6                        | HW5      |
+| 14 | Nov 29    | Project development                                   |                |                            |          |
 |    | Dec  1    |                                                       |                |                            |          |
-| 15 | Dec  6    |                                                       |                |                            |          |
+| 15 | Dec  6    |                                                       |                |                            | HW6      |
 |    | Dec  8    | Wrap up                                               |                |                            | PA2      |
 | 16 | Dec 13    | FINALS WEEK                                           |                |                            |          |
 |    | Dec 15    | FINAL EXAM (12:30PM-2:30pm)                           |                |                            |          |

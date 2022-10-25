@@ -42,7 +42,7 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Oct 13    | Python OO practice (cont.)                            |                |                            | PA1      |
 | 8  | Oct 18    | [**MIDTERM**](documents/Midterm.pdf)                  |                |                            |          |
 |    | Oct 20    | Mid term discussion                                   |                |                            |          |
-| 9  | Oct 25    | Data analysis libraries: Pandas                       |                | HW4                        |          |
+| 9  | Oct 25    | [Data analysis libraries: Pandas](notebooks/DataAnalysis.ipynb)|       | [HW4](assignments/hw4.md)  |          |
 |    | Oct 27    |                                                       |                |                            |          |
 | 10 | Nov  1    | REST API data collection                              |                | PA2                        | HW4      |
 |    | Nov  3    |                                                       |                | HW5                        |          |

@@ -5,7 +5,7 @@
 **How to subm it:**
 
 * Follow the steps defined on this markdown.
-* Create a Jupyter Notebook file with the solution and submit to your GitHub repository (same used for the other assignments). Name this file as `PA2.ipynb`
+* Create a Jupyter Notebook file with the solution and submit to your GitHub repository (same used for the other assignments). Name this file as `extra_HW.ipynb`
   - make sure you add your names and GitHub username in the file, so I can connect the groups.
   - ALL the students in your group MUST SUBMIT the solution to your own GitHub, but they will be identical files. Please make sure you include the GitHub link to the assignment for both students in the head of your file (just like we have done for HW4), so I can easily switch from one GitHub to the other.
 

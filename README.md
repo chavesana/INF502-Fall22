@@ -48,7 +48,7 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Nov  3    |                                                       |                |                            | HW4      |
 | 11 | Nov  8    |[Web Scraping](notebooks/WebScraping.ipynb)            |                |                            |          |
 |    | Nov 10    |[Scraping + Pandas Practice](assignments/extra_HW.md)  |                |                            |          |
-| 12 | Nov 15    | Algorithm design and sorting/searching strategies     |                |[HW5](assignments/hw5.md)   |          |
+| 12 | Nov 15    |[Algorithm design and sorting/searching strategies](documents/slides_week12.pptx)||[HW5](assignments/hw5.md)|   |
 |    | Nov 17    |                                                       |                |                            |          |
 | 13 | Nov 22    | Agile development: kanban; test-driven development    |                |                            |          |
 |    | Nov 24    | THANKSGIVING                                          |                |                            |          |

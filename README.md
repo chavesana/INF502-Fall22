@@ -50,7 +50,7 @@ Everything on this schedule *is subject to change* based on specific student and
 |    | Nov 10    |[Scraping + Pandas Practice](assignments/extra_HW.md)  |                |                            |          |
 | 12 | Nov 15    |[Algorithm design and sorting/searching strategies](documents/slides_week12.pptx)||[HW5](assignments/hw5.md)|   |
 |    | Nov 17    |[Algorithm strategies: Trial and error (video)](https://drive.google.com/file/d/10H8RHrd-6SzMwIM91B4pGmSfNlD5jWyk/view?usp=sharing) Note: requires NAU credentials||||
-| 13 | Nov 22    | Agile development: kanban; test-driven development    |                |                            |          |
+| 13 | Nov 22    |[Agile development: kanban; test-driven development](documents/slides_week12.pptx)|[Example (notebook)](notebooks/unittest.ipynb)|      |          |
 |    | Nov 24    | THANKSGIVING                                          |                |                            |          |
 | 14 | Nov 29    | Project development                                   |                |                            | HW5      |
 |    | Dec  1    |                                                       |                |                            |          |
